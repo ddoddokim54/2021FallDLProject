@@ -1,4 +1,4 @@
-# 2021FallDLProject
+# 2021FallDLProject_SEGAN
 
 - code based on https://github.com/leftthomas/SEGAN.git
 
